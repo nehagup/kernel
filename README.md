@@ -21,3 +21,4 @@ should end up building up to what’s in `src`.
 
 This project is dual licensed under Apache2/MIT. See the two `LICENSE-*` files
 for details.
+Thank you.
